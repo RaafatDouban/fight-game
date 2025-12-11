@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "finalgame.sln"
+    "dotnet.defaultSolution": "Nabil's Game.sln"
 }
